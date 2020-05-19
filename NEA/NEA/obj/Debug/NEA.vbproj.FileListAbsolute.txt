@@ -1,0 +1,20 @@
+C:\Users\user1\source\repos\NEA\NEA\bin\Debug\NEA.exe.config
+C:\Users\user1\source\repos\NEA\NEA\bin\Debug\NEA.exe
+C:\Users\user1\source\repos\NEA\NEA\obj\Debug\NEA.vbprojAssemblyReference.cache
+C:\Users\user1\source\repos\NEA\NEA\obj\Debug\NEA.Resources.resources
+C:\Users\user1\source\repos\NEA\NEA\obj\Debug\NEA.vbproj.GenerateResource.cache
+C:\Users\user1\source\repos\NEA\NEA\obj\Debug\NEA.exe
+C:\Users\user1\source\repos\NEA\NEA\obj\Debug\NEA.xml
+C:\Users\user1\source\repos\NEA\NEA\obj\Debug\NEA.pdb
+C:\Users\user1\source\repos\NEA\NEA\bin\Debug\NEA.pdb
+C:\Users\user1\source\repos\NEA\NEA\bin\Debug\NEA.xml
+H:\NEA\Second attempt\NEA\NEA\bin\Debug\NEA.exe.config
+H:\NEA\Second attempt\NEA\NEA\bin\Debug\NEA.exe
+H:\NEA\Second attempt\NEA\NEA\bin\Debug\NEA.pdb
+H:\NEA\Second attempt\NEA\NEA\bin\Debug\NEA.xml
+H:\NEA\Second attempt\NEA\NEA\obj\Debug\NEA.vbprojAssemblyReference.cache
+H:\NEA\Second attempt\NEA\NEA\obj\Debug\NEA.Resources.resources
+H:\NEA\Second attempt\NEA\NEA\obj\Debug\NEA.vbproj.GenerateResource.cache
+H:\NEA\Second attempt\NEA\NEA\obj\Debug\NEA.exe
+H:\NEA\Second attempt\NEA\NEA\obj\Debug\NEA.xml
+H:\NEA\Second attempt\NEA\NEA\obj\Debug\NEA.pdb
